@@ -1,0 +1,66 @@
+html, body {
+    display: flex;
+}
+#gray-background{
+    background-color:#808080;
+
+   
+}
+#black-background{
+    background-color:#1D1D1D;
+  
+    border-radius: 10px;
+}
+
+
+input{
+  
+   
+    background-color: white;
+ 
+    border-radius: 10px;
+  
+}
+.input:focus{
+    outline:none;
+    
+}
+
+a{
+    font-size: large;
+  
+}
+#col-nav{
+  
+   margin-top: -1.6vh;
+}
+.black-tone{
+    background-color:#1D1D1D;  
+}
+.big-a{
+    width:100%;
+}
+#big-pontiac{
+    font-size:10vh;
+   
+    
+}
+#gto{
+    font-size:5vh;
+  
+    margin-top: -5vh;
+}
+
+.feature-text{
+font-size:large;
+margin-bottom:-0.5vh;
+}
+.feature-text-bold{
+    font-size:large;
+    font-weight: bold;
+ }
+
+ #bottom{
+margin-top: 40vh;
+    
+ }
